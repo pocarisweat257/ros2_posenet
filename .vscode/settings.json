@@ -1,0 +1,14 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/opt/ros/foxy/lib/python3.8/site-packages",
+        "/home/avees/ros2_foxy_ws/install/rqt_example/lib/python3.8/site-packages",
+        "/home/avees/ros2_foxy_ws/install/ros2env/lib/python3.8/site-packages",
+        "/home/avees/ros2_foxy_ws/install/msg_interface_example/lib/python3.8/site-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/opt/ros/foxy/lib/python3.8/site-packages",
+        "/home/avees/ros2_foxy_ws/install/rqt_example/lib/python3.8/site-packages",
+        "/home/avees/ros2_foxy_ws/install/ros2env/lib/python3.8/site-packages",
+        "/home/avees/ros2_foxy_ws/install/msg_interface_example/lib/python3.8/site-packages"
+    ]
+}
