@@ -81,6 +81,7 @@ bool publish_overlay( )
 	// publish the message	
 	overlay_pub->publish(msg);
 	ROS_DEBUG("publishing %ux%u overlay image", width, height);
+	return true;
 }
 
 
