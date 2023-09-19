@@ -112,7 +112,7 @@ int main(int argc, char **argv)
 	std::string model_name  = "resnet18-body";
 	std::string model_path;
 	std::string prototxt_path;
-	std::string overlay_str = "OVERLAY_DEFAULT";	
+	std::string overlay_flags = "OVERLAY_DEFAULT";	
 	std::string input_blob  = POSENET_DEFAULT_INPUT;
 	std::string output_cmap  = POSENET_DEFAULT_CMAP;
 	std::string output_paf = POSENET_DEFAULT_PAF;
